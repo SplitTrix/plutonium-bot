@@ -220,4 +220,4 @@ client.on("message", msg => {
 
 
 
-client.login(settings["d-token"]);
+client.login(process.env.BOT_TOKEN);
