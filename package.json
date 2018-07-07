@@ -1,4 +1,10 @@
 {
+  "name": "Plutonium",
+  "description": "plutonium bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
